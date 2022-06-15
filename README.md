@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @andeilsongf
-- 👀 I’m interested in JavaScript, React Native, TypeScript, Mobile.
-- 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on apps.
-- 📫 You can reach me at andeilson@andeilson.com
+<h3>Hi there 👋</h3>
 
-<!---
-andeilsongf/andeilsongf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4>I'm a front end developer from Brazil.</h4>
+
+<h5>NOW</h5>
+
+<ul>
+  <li><code>Code</code>, drink coffee, and repeat.</li>
+</ul>
+
+<h5>BIO</h5>
+
+<ul>
+  <li> 🏢 Looking for a full time job working with React</li>
+  <li> ⚙️ I use daily: <code>React</code>, <code>React Native</code>, <code>JS</code>, <code>HTML5</code>, <code>CSS</code>, <code>TypeScript</code>, <code>SASS</code></li>
+  <li>📫 Reach me: <a href="mailto:contact@andeilson.dev">contact@andeilson.dev</a></li>
+  <li>⚡️ Fun fact: I'm a huge fan of Oasis.</li>
+</ul>
